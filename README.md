@@ -33,7 +33,7 @@ Overview
     - Modeling: Retain top PCs for efficient predictive analysis.
 
 Technologies Used
-- 	Python: pandas, scikit-learn, seaborn, matplotlib
+- 	Python: pandas, numpy, scikit-learn, seaborn, matplotlib
 - 	Machine Learning: PCA, regression modeling
 - 	EDA Tools: visualization
 
