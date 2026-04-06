@@ -38,4 +38,4 @@ Technologies Used
 - 	EDA Tools: visualization
 
  Conclusion
-The dataset highlights how attacking skills, prime-age players, and representation in top countries/clubs drive market value. PCA shows that a few components capture most of the variance, enabling efficient modeling and actionable insights for scouting and transfers.
+  - The dataset highlights how attacking skills, prime-age players, and representation in top countries/clubs drive market value. PCA shows that a few components capture most of the variance, enabling efficient modeling and actionable insights for scouting and transfers.
